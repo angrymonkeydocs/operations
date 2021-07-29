@@ -257,44 +257,6 @@ Social Media Marketing is a powerful way for businesses of all sizes to reach cu
 
  # <span style = "color:blue"> Social Media Highlights to Keep in Mind </span>
 
- <ul>
- <li>
- Build a strong online presence
- </li>
- <li>
- Maximize visibility
- </li>
- <li>
- Promote products and services online
- </li>
- <li>
- Attract new customers
- </li>
- <li>
- Gain likes and increase followers/leads
- </li>
- <li>
- Reach marketing goals
- </li>
- <li>
- Engage with customers
- </li>
- <li>
- Share useful content
- </li>
- <li>
- Drive more sales
- </li>
- <li>
- Drive traffic to website
- </li>
- <li>
- Sell online and expand your business
- </li>
- </ul>
-
-# <span style = "color:blue"> Social Media Post Content Ideas </span>
-
 <ul>
  <li>
  Manage Facebook pages from Facebook Business or Creator Studio
