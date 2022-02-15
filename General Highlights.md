@@ -43,4 +43,4 @@
 - Use Adobe Encoder to reduce video file size (choose Medium Bitrate)
 
 3. **Date**
-- Document | Folder:Year-mm-dd
+- Document | Folder: Year-mm-dd
