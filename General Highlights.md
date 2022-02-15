@@ -41,3 +41,6 @@
 - Use movie maker for fast slideshow videos (mainly for transitions)
 - Create short simple videos using “timeline” in Photoshop (Export > Render Video to save) Format: H.264 Preset: HD 1080p 29.97
 - Use Adobe Encoder to reduce video file size (choose Medium Bitrate)
+
+3. **Date**
+- Document | Folder:Year-mm-dd
