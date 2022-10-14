@@ -1,0 +1,33 @@
+{
+"Tabs":
+ [
+   {
+   "Title": "Azure DevOps",
+   "Path": ["/Azure DevOps.md"]
+  },
+   {
+   "Title": "Development",
+   "Path": ["/Development.md"]
+   },
+  {
+   "Title": "Files",
+   "Path": ["/Files .md"]
+   },
+   {
+   "Title": "General Highlights",
+   "Path": ["/General Highlights.md"]
+   },
+   {
+   "Title": "Logo",
+   "Path": ["/Logo.md"]
+   },
+   {
+   "Title": "README",
+   "Path": ["/README.md"]
+   },
+  {
+   "Title": "Social Media",
+   "Path": ["/Social Media .md"]
+   }
+ ]
+}
